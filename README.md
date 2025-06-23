@@ -6,9 +6,7 @@ Sebuah aplikasi mobile sederhana yang dibangun menggunakan Flutter. Aplikasi "I 
 
 | Tampilan Utama | Kutipan Baru |
 | :---: | :---: |
-| <img src="URL_GAMBAR_TAMPILAN_1_ANDA" width="250"> | <img src="URL_GAMBAR_TAMPILAN_2_ANDA" width="250"> |
-
-*Catatan: Ganti `URL_GAMBAR_..._ANDA` dengan tautan ke screenshot aplikasi Anda. Anda bisa mendapatkan link ini dengan mengunggah gambar ke menu "Issues" di GitHub.*
+| <img src="https://github.com/user-attachments/assets/090ebe05-4862-413a-b5d8-7b62771a87a2" width="250"> | <img src="https://github.com/user-attachments/assets/9f014511-7b3b-4af7-b911-937361dbb420" width="250"> |
 
 ## Fitur Utama
 - **Tampilan Minimalis:** Desain yang bersih dan fokus dengan latar belakang gelap agar nyaman dibaca.
@@ -36,7 +34,7 @@ Untuk menjalankan proyek ini di mesin lokal Anda, ikuti langkah-langkah berikut:
 
 2.  **Clone repositori ini:**
     ```sh
-    git clone https://github.com/username-anda/nama-repositori-anda.git
+    git clone https://github.com/dimaswijil/I-am-Single.git
     ```
 
 3.  **Masuk ke direktori proyek:**
